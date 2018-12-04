@@ -1,0 +1,7 @@
+subscription_id = "0387ddf0-eea2-4265-a843-4f7c61f6ab68"
+location = "East US"
+resource_group = "myResourceGroup"
+virtaul_network = "myVnet"
+subnet = "mySubnet"
+security_group = "myNetworkSecurityGroup"
+network_interface_name = "test123"
